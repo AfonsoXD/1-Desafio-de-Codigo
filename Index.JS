@@ -37,4 +37,4 @@ console.log("Seu nivel de XP é Ferro;");
 
 //saida
 
-console.log("Parabens ${nomeHeroi} , ${niveL} ");
+console.log("Parabens ${nomeHeroi} , ${nivel} ");
